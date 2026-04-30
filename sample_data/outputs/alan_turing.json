@@ -1,0 +1,80 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine.",
+  "key_entities": {
+    "people":        ["Alan Turing", "Alonzo Church", "Max Newman", "Gordon Brown"],
+    "organizations": ["Bletchley Park", "University of Manchester", "Government Code and Cypher School"],
+    "locations":     ["London", "Cambridge", "Manchester", "Sherborne"]
+  },
+  "sections": ["Early life", "Education", "Cryptanalysis", "Computing machinery", "Later life"],
+  "quiz": [
+    {
+      "question":    "What theoretical model did Alan Turing propose that became fundamental to computer science?",
+      "options":     ["A. Turing Machine", "B. Analytical Engine", "C. Difference Engine", "D. ENIAC"],
+      "answer":      "A. Turing Machine",
+      "explanation": "Alan Turing proposed the Turing Machine as a theoretical model of computation, which became foundational to computer science.",
+      "difficulty":  "easy",
+      "section":     "Computing machinery"
+    },
+    {
+      "question":    "During World War II, at which location did Alan Turing work on breaking the Enigma code?",
+      "options":     ["A. Oxford University", "B. Bletchley Park", "C. Cambridge University", "D. GCHQ London"],
+      "answer":      "B. Bletchley Park",
+      "explanation": "Turing worked at Bletchley Park, the British codebreaking centre, where he helped break the German Enigma cipher.",
+      "difficulty":  "easy",
+      "section":     "Cryptanalysis"
+    },
+    {
+      "question":    "What test did Alan Turing propose to evaluate a machine's ability to exhibit intelligent behaviour?",
+      "options":     ["A. Boolean Test", "B. Church Test", "C. Turing Test", "D. Imitation Game"],
+      "answer":      "C. Turing Test",
+      "explanation": "The Turing Test, proposed in his 1950 paper, evaluates whether a machine can exhibit intelligent behaviour indistinguishable from a human.",
+      "difficulty":  "easy",
+      "section":     "Computing machinery"
+    },
+    {
+      "question":    "What was the name of the bombe machine that Turing helped develop at Bletchley Park?",
+      "options":     ["A. Colossus", "B. The Bombe", "C. ENIAC", "D. Z3"],
+      "answer":      "B. The Bombe",
+      "explanation": "Turing improved upon the Polish Bomba to create the Bombe, an electromechanical device used to decipher Enigma-encrypted messages.",
+      "difficulty":  "medium",
+      "section":     "Cryptanalysis"
+    },
+    {
+      "question":    "Which university awarded Alan Turing his PhD in mathematics?",
+      "options":     ["A. Oxford University", "B. Imperial College London", "C. Princeton University", "D. Cambridge University"],
+      "answer":      "C. Princeton University",
+      "explanation": "Turing received his PhD from Princeton University in 1938, under the supervision of Alonzo Church.",
+      "difficulty":  "medium",
+      "section":     "Education"
+    },
+    {
+      "question":    "What concept did Turing introduce in his 1936 paper 'On Computable Numbers'?",
+      "options":     ["A. Binary arithmetic", "B. Universal computation and the halting problem", "C. Object-oriented programming", "D. Relational databases"],
+      "answer":      "B. Universal computation and the halting problem",
+      "explanation": "In 'On Computable Numbers', Turing introduced the concept of a universal computing machine and proved the halting problem is undecidable.",
+      "difficulty":  "hard",
+      "section":     "Computing machinery"
+    },
+    {
+      "question":    "What posthumous honour did the British government grant Alan Turing in 2013?",
+      "options":     ["A. Knighthood", "B. Order of the British Empire", "C. Royal Pardon", "D. Nobel Prize"],
+      "answer":      "C. Royal Pardon",
+      "explanation": "In 2013, Queen Elizabeth II granted Turing a posthumous Royal Pardon for his 1952 conviction for homosexual acts, which were illegal at the time.",
+      "difficulty":  "hard",
+      "section":     "Later life"
+    }
+  ],
+  "related_topics": [
+    "Enigma machine",
+    "Bletchley Park",
+    "Computability theory",
+    "Artificial intelligence",
+    "Church-Turing thesis",
+    "World War II cryptography"
+  ],
+  "version":    1,
+  "created_at": "2026-04-30T09:00:00"
+}

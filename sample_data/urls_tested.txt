@@ -1,0 +1,8 @@
+# Wikipedia URLs tested with WikiQuiz AI
+# Format: URL | Status | Questions Generated
+
+https://en.wikipedia.org/wiki/Alan_Turing | OK | 7
+https://en.wikipedia.org/wiki/Black_hole  | OK | 7
+https://en.wikipedia.org/wiki/Python_(programming_language) | OK | 7
+https://en.wikipedia.org/wiki/World_War_II | OK | 7
+https://en.wikipedia.org/wiki/Artificial_intelligence | OK | 7

@@ -1,0 +1,80 @@
+{
+  "id": 2,
+  "url": "https://en.wikipedia.org/wiki/Black_hole",
+  "title": "Black hole",
+  "summary": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light or other electromagnetic waves, has enough speed to escape the event horizon. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole.",
+  "key_entities": {
+    "people":        ["Stephen Hawking", "Karl Schwarzschild", "John Wheeler", "Roger Penrose"],
+    "organizations": ["NASA", "Event Horizon Telescope"],
+    "locations":     ["Milky Way", "Messier 87"]
+  },
+  "sections": ["Formation", "Properties", "Event horizon", "Hawking radiation", "Detection"],
+  "quiz": [
+    {
+      "question":    "What is the boundary around a black hole beyond which nothing can escape?",
+      "options":     ["A. Photon sphere", "B. Event horizon", "C. Singularity", "D. Accretion disk"],
+      "answer":      "B. Event horizon",
+      "explanation": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape its gravitational pull.",
+      "difficulty":  "easy",
+      "section":     "Event horizon"
+    },
+    {
+      "question":    "Who proposed that black holes emit thermal radiation due to quantum effects?",
+      "options":     ["A. Albert Einstein", "B. Karl Schwarzschild", "C. Stephen Hawking", "D. Roger Penrose"],
+      "answer":      "C. Stephen Hawking",
+      "explanation": "Stephen Hawking proposed in 1974 that black holes emit thermal radiation (now called Hawking radiation) due to quantum effects near the event horizon.",
+      "difficulty":  "easy",
+      "section":     "Hawking radiation"
+    },
+    {
+      "question":    "What is the name of the first black hole ever directly imaged by astronomers?",
+      "options":     ["A. Sagittarius A*", "B. Cygnus X-1", "C. M87*", "D. NGC 1277"],
+      "answer":      "C. M87*",
+      "explanation": "M87* in the galaxy Messier 87 was the first black hole to be directly imaged, captured by the Event Horizon Telescope in 2019.",
+      "difficulty":  "medium",
+      "section":     "Detection"
+    },
+    {
+      "question":    "What term describes the infinitely dense point at the center of a black hole?",
+      "options":     ["A. Neutron core", "B. Quantum foam", "C. White dwarf", "D. Singularity"],
+      "answer":      "D. Singularity",
+      "explanation": "The singularity is the point at the center of a black hole where density becomes infinite and the known laws of physics break down.",
+      "difficulty":  "medium",
+      "section":     "Properties"
+    },
+    {
+      "question":    "Which type of black hole forms from the gravitational collapse of a massive star?",
+      "options":     ["A. Primordial black hole", "B. Supermassive black hole", "C. Stellar black hole", "D. Intermediate black hole"],
+      "answer":      "C. Stellar black hole",
+      "explanation": "Stellar black holes form when massive stars (typically more than 20 solar masses) collapse under their own gravity at the end of their life cycle.",
+      "difficulty":  "medium",
+      "section":     "Formation"
+    },
+    {
+      "question":    "What is the Schwarzschild radius?",
+      "options":     ["A. The radius of the accretion disk", "B. The radius at which a mass becomes a black hole", "C. The distance to the nearest black hole", "D. The radius of the photon sphere"],
+      "answer":      "B. The radius at which a mass becomes a black hole",
+      "explanation": "The Schwarzschild radius is the critical radius below which a given mass must be compressed to become a black hole, derived from Karl Schwarzschild's solution to Einstein's equations.",
+      "difficulty":  "hard",
+      "section":     "Properties"
+    },
+    {
+      "question":    "What paradox arises from Hawking radiation regarding information falling into a black hole?",
+      "options":     ["A. Twin paradox", "B. Fermi paradox", "C. Black hole information paradox", "D. Olbers paradox"],
+      "answer":      "C. Black hole information paradox",
+      "explanation": "The black hole information paradox questions whether physical information is permanently lost when it falls into a black hole, apparently violating quantum mechanics.",
+      "difficulty":  "hard",
+      "section":     "Hawking radiation"
+    }
+  ],
+  "related_topics": [
+    "Hawking radiation",
+    "General relativity",
+    "Neutron star",
+    "Event Horizon Telescope",
+    "Gravitational waves",
+    "Stephen Hawking"
+  ],
+  "version":    1,
+  "created_at": "2026-04-30T09:05:00"
+}
